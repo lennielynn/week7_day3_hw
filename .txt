@@ -1,0 +1,17 @@
+Assignment Objectives:
+
+Please ensure that your application includes the following features:
+
+1. Form Creation: 
+    Develop a form to add a to-do item. 
+    -- input table to add item
+    Each to-do item should include a title and a description.
+    -- upon title submission second input renders for description.
+
+2. Displaying To-Do Items: 
+    Render each to-do item on the webpage.
+
+3. Interactive To-Do Items: 
+    Add a click event listener to each to-do item. 
+    When clicked, the item should either be marked as done by 
+    modifying its style or be removed from the list entirely.
